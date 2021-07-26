@@ -13,14 +13,14 @@
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/HackTeachz/Whatsupp-hack/
-* cd AdvPhishing/
+* cd Whatsupp-hack/
 * chmod 777 start.sh
 * ./start.sh
 * ./An-AdvPhishing.sh
 
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/HackTeachz/Whatsupp-hack/
-* cd AdvPhishing/
+* cd Whatsupp-hack/
 * chmod 777 setup.sh
 * ./setup.sh
 * ./AdvPhishing.sh
