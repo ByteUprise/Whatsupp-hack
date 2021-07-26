@@ -12,14 +12,14 @@
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/HackTeachz/Whatsupp-hack/
 * cd AdvPhishing/
 * chmod 777 start.sh
 * ./start.sh
 * ./An-AdvPhishing.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/HackTeachz/Whatsupp-hack/
 * cd AdvPhishing/
 * chmod 777 setup.sh
 * ./setup.sh
